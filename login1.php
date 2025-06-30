@@ -77,12 +77,12 @@ $username = $_SESSION['username']; // Optional: use this to personalize if neede
         }
 
         .shop-owner {
-            background-image: url("GLC2.jpg");
+            background-image: url("frontend/GLC2.jpg");
             border-bottom: 3px solid gold;
         }
 
         .farmer {
-            background-image: url("GLC3.jpg");
+            background-image: url("frontend/GLC3.jpg");
             border-bottom: 3px solid gold;
         }
 
